@@ -8,3 +8,8 @@
 * Draw conclusion and  recommendations based on findings and additional research.
 
 ## [SQL Cleaning Project 1:](https://github.com/jayentienza/Jay_Entienza_Portfolio/blob/main/SQL%20Cleaning%20Projects/Nashville.sql)
+
+
+## [SQL Data Exploration Project: COVID Deaths & Vaccination Rates](https://github.com/jayentienza/Jay_Entienza_Portfolio/blob/main/SQL%20Data%20Exploration%20-%20COVID/COVID_Death_Vaccination.sql)
+* Used Microsoft SQL for exploring the data and doing basic analyses
+
