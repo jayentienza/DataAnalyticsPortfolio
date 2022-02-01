@@ -7,7 +7,7 @@
 * Used R-Studio and Microsoft Excel for data cleaning and analysis. 
 * Draw conclusion and  recommendations based on findings and additional research.
 
-## SQL EDA on COVID-19 Vaccination Distribution & Cases per Region in the Philippines 
+## [SQL EDA on COVID-19 Vaccination Distribution & Cases per Region in the Philippines](https://github.com/jayentienza/Jay_Entienza_Portfolio/blob/main/SQLEDA-PH-REGVAX/PH_REG_COVID_VAXCASE.sql)
 * Objective: Explore and compare the data on vaccine supply per region and if there’s a significant pattern in the region’s reported cases since the vaccination rollout started.  
 * Tools & Methods: Microsoft SQL for querying data, Microsoft Excel for cleaning, Tableau for visualization
 * **Tableau Data Visualization Link:** https://public.tableau.com/app/profile/jaysel.entienza/viz/FILE1_POSTVAX/Dashboard_VaxCases
