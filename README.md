@@ -17,8 +17,8 @@
  
 
 ## [SQL Data Exploration Project: COVID Deaths & Vaccination Rates](https://github.com/jayentienza/Jay_Entienza_Portfolio/blob/main/SQL%20Data%20Exploration%20-%20COVID/COVID_Death_Vaccination.sql)
-* Objective: An exploratory data analysis on COVID-19 deaths and vaccination rates around the world. Put an emphasis on comparing values among Southeast Asian countries 
-* Tools & Methods: Used Microsoft SQL for exploring the data and doing basic analyses
+* Objective: An exploratory data analysis on COVID-19 deaths and vaccination rates around the world. Put an emphasis on comparing values among Southeast Asian countries, especialy Philippines.
+* Tools & Methods: Used Microsoft SQL for exploring the data and doing basic analyses. Tableau for data visualization. 
 * [Tableau Data Visualization Link](https://public.tableau.com/views/COVIDDataVisualization_16369081208190/Country_COVID_Deaths?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
