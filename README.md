@@ -6,6 +6,7 @@
 * Analyzed a publicly available dataset on FitBit smartwatch users activities.
 * Used R-Studio and Microsoft Excel for data cleaning and analysis. 
 * Drew conclusions and recommendations based on findings and additional research.
+![D-PostVaccineRolloutTrend](https://user-images.githubusercontent.com/90535854/152198659-755cb76a-0078-4b03-be56-2949d85e9d51.png)
 
 ## [SQL EDA on COVID-19 Vaccination Distribution & Cases per Region in the Philippines](https://github.com/jayentienza/Jay_Entienza_Portfolio/blob/main/SQLEDA-PH-REGVAX/PH_REG_COVID_VAXCASE.sql)
 * **Objective:** Explore and compare the data on vaccine supply per region and if there’s a significant pattern in the region’s reported cases since the vaccination rollout started.  
