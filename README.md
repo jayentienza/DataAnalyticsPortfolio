@@ -7,8 +7,8 @@
 * Used R-Studio and Microsoft Excel for data cleaning and analysis. 
 * Drew conclusions and recommendations based on findings and additional research.
 * Overview of graphs & data: 
-![User Type Distribution Bellabeat](https://user-images.githubusercontent.com/90535854/152200629-bbdd8147-cd97-46d6-b1ad-5172f59a44b6.png)
-![Bellabeat 1](https://user-images.githubusercontent.com/90535854/152200742-5fc0c9d2-a120-4d59-9a5b-b77e7b4842f3.png)
+   ![User Type Distribution Bellabeat](https://user-images.githubusercontent.com/90535854/152200629-bbdd8147-cd97-46d6-b1ad-5172f59a44b6.png)
+   ![Bellabeat 1](https://user-images.githubusercontent.com/90535854/152200742-5fc0c9d2-a120-4d59-9a5b-b77e7b4842f3.png)
 
 
 ## [SQL - EDA on COVID-19 Vaccination Distribution & Cases per Region in the Philippines](https://github.com/jayentienza/Jay_Entienza_Portfolio/blob/main/SQLEDA-PH-REGVAX/PH_REG_COVID_VAXCASE.sql)
