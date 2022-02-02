@@ -5,13 +5,13 @@
 * A case study on the trend of non-Bellabeat smartwatch users' consumption, activities, and lifestyle. 
 * Analyzed a publicly available dataset on FitBit smartwatch users activities.
 * Used R-Studio and Microsoft Excel for data cleaning and analysis. 
-* Draw conclusion and  recommendations based on findings and additional research.
+* Drew conclusions and recommendations based on findings and additional research.
 
 ## [SQL EDA on COVID-19 Vaccination Distribution & Cases per Region in the Philippines](https://github.com/jayentienza/Jay_Entienza_Portfolio/blob/main/SQLEDA-PH-REGVAX/PH_REG_COVID_VAXCASE.sql)
-* Objective: Explore and compare the data on vaccine supply per region and if there’s a significant pattern in the region’s reported cases since the vaccination rollout started.  
-* Results: The results also showed a comparison between the death percentage among the COVID-19 cases before and after the vaccination rollout. It is seen that the death rates are lower post-vaccination rollout even though the cases are much higher. The increase in cases can be attributed to many factors, such as the rise of  new and more potent variants (Delta and Omicron) and ease in restrictions and travel guidelines. 
+* **Objective:** Explore and compare the data on vaccine supply per region and if there’s a significant pattern in the region’s reported cases since the vaccination rollout started.  
+* **Results:** The results also showed a comparison between the death percentage among the COVID-19 cases before and after the vaccination rollout. It is seen that the death rates are lower post-vaccination rollout even though the cases are much higher. The increase in cases can be attributed to many factors, such as the rise of  new and more potent variants (Delta and Omicron) and ease in restrictions and travel guidelines. 
 * Tools & Methods: Microsoft SQL for querying data, Microsoft Excel for cleaning, Tableau for visualization
-* **Tableau Data Visualization Link:** 
+* **Tableau Data Visualization Links:** 
      * [COVID-19 Cases a& Vaccine Supply per Region Visualization](https://public.tableau.com/app/profile/jaysel.entienza/viz/FILE1_POSTVAX/Dashboard_VaxCases)
      * [Comparing COVID-19 case statistics per Region Before & After Vaccine Rollout](https://public.tableau.com/views/COVIDPrePostVaccineData/OverallComparison?:language=en-US&:display_count=n&:origin=viz_share_link)
  
