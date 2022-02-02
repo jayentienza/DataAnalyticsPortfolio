@@ -22,4 +22,5 @@
 * [Tableau Data Visualization Link](https://public.tableau.com/views/COVIDDataVisualization_16369081208190/Country_COVID_Deaths?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
-## [Miscellaneous & Ongoing Projects](https://github.com/jayentienza/Jay_Entienza_Portfolio/blob/main/SQL%20Cleaning%20Projects/Nashville.sql)
+## Miscellaneous & Ongoing Projects
+* [SQL Data Cleaning Project: Nashville Housing Dataset(https://github.com/jayentienza/Jay_Entienza_Portfolio/blob/main/SQL%20Cleaning%20Projects/Nashville.sql)
