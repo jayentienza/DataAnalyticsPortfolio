@@ -11,7 +11,7 @@ output: html_document
 
 ## About Bellabeat
 
-Bellabeat is a wellness company that manufactures health-focused smart products. Their main goal is to empower women by making them knoweledgable and more in control of their health. Bellabeat products allow their users to track their activities, sleep activities, stress levels, and reproductive health.
+Bellabeat is a wellness company that manufactures health-focused smart products. Their main goal is to empower women by making them knowledgeable and more in control of their health. Bellabeat products allow their users to track their activities, sleep activities, stress levels, and reproductive health.
 
 ## Business Task
 
